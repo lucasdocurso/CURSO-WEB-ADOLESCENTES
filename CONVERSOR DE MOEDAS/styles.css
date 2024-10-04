@@ -1,4 +1,4 @@
-    body {
+   body {
         background-color: rgb(209, 204, 197);
         text-align: center;
     
@@ -24,11 +24,8 @@
         margin: auto;
         padding: 15px;
         border-radius: 10px;
+ }
 
-        }
-
-        .conversor {
-            color: black;
-        }
+     
 
    
