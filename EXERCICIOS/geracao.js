@@ -22,12 +22,3 @@ else if(idadeReal > 1996 && idadeReal < 2009) {
 else if(idadeReal > 2010) {
     console.log(`voce nasceu no ano de ${idadeReal} e voce faz parte da geracao "Geracao Alpha"`);
 } 
-      
-
-
-
-
-
-
-
-
