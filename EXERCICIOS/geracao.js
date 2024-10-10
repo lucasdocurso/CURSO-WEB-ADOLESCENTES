@@ -19,6 +19,6 @@ else if(idadeReal > 1984 && idadeReal< 1995) {
 else if(idadeReal > 1996 && idadeReal < 2009) {
     console.log(`voce nasceu no ano de ${idadeReal} e voce faz parte da geracao "Geracao Z"`);
 } 
-else if(idadeReal > 2010) {
+else if(idadeReal >= 2010) {
     console.log(`voce nasceu no ano de ${idadeReal} e voce faz parte da geracao "Geracao Alpha"`);
 } 
