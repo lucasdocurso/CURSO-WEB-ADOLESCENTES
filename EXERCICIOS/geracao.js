@@ -31,21 +31,3 @@ else if(idadeReal > 2010) {
 
 
 
-/*if (idade >= 1926 ) {
-console.log(readline.question(`voce nasceu no ano de ${idade} e voce faz parte da geracao "Geracao Silenciosa"`));
-}
-else if(idade >=2010) {
-    console.log(readline.question(`voce nasceu no ano de ${idade} e voce faz parte da geracao "Geracao Alpha"`));
-}
-else if(idade >=1995) {
-    console.log(readline.question(`voce nasceu no ano de ${idade} e voce faz parte da geracao "Geracao Z"`));
-} 
-else if(idade >=1984) {
-    console.log(readline.question(`voce nasceu no ano de ${idade} e voce faz parte da geracao "Millennials"`));
-}
-else if( idade >= 1964) {
-    console.log(readline.question(`voce nasceu no ano de ${idade} e voce faz parte da geracao "Geracao X"`));
-} 
-else if(idade >=1947) {
-        console.log(readline.question(`voce nasceu no ano de ${idade} e voce faz parte da geracao "Baby Boomers"`));
-    }*/
