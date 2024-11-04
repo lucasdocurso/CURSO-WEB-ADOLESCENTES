@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url("cinza.jpg");
+    color: #333;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #007acc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+main {
+    max-width: 700px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.info {
+    margin-bottom: 20px;
+}
+
+.info p {
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.profile-image {
+    max-width: 100%;
+    border-radius: 300%;
+    margin-top: 20px;
+}
+.div-botao{
+    text-align: center;
+}
+.meu-botao {
+    background-color: #007acc; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+}
+
+.meu-botao:hover {
+    background-color: #005f99; 
+}
+.hidden {
+    display: none; 
+}
+
+.profile-image {
+    margin-top: 20px; 
+    max-width: 100%;  
+}
+
+.meu-botao {
+    background-color: #007acc; 
+    color: white; 
+    border: none;  
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+}
+
+.meu-botao:hover {
+    background-color: #005f99; 
+}
